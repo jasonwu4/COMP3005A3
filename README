@@ -1,4 +1,10 @@
+Jason Wu
+101233618
+COMP3005 - A3 - Question 1
+Youtube Link: https://youtu.be/d_htSrqkauU
+
 Steps to run on Visual Studio Code
+Download Main.java as well as a3.sql
 1. Add JDBC as a referenced Library (got .jar file from postgre sql download)
 2. Create a new database with name: a3test
 3. Go to the query tool in PgAdmin4 and insert the a3.sql file and run it
