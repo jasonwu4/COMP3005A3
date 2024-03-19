@@ -1,0 +1,7 @@
+Steps to run on Visual Studio Code
+1. Add JDBC as a referenced Library (got .jar file from postgre sql download)
+2. Create a new database with name: a3test
+3. Go to the query tool in PgAdmin4 and insert the a3.sql file and run it
+4. change user and password to your credentials
+5. Click "Run Java" at the top right of VS code
+
